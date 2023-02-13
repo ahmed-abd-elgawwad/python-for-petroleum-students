@@ -1,6 +1,6 @@
 # Python for petroleum students
 <p>    This repo is build as the material for my playlsit on youtube
- <a src="https://youtube.com/playlist?list=PLEqmbCiLrGwmdd7FC9dwdCXvX7BpJx7oR"> python_for_petroleum_students </a> </p>
+ https://youtube.com/playlist?list=PLEqmbCiLrGwmdd7FC9dwdCXvX7BpJx7oR
 
 in this tutorial i will go through the content items using a real production data `volve production dataset` using pandas to manipulate data and processing, data visualization with matplotplib and seaborn to answer some question about the data and have some insights, finaly using ARP's model and fitting to get the parameters to predict the production in the future. 
 
